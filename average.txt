@@ -1,0 +1,1 @@
+this computes the average of the given set of numbers.
